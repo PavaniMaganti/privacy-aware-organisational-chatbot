@@ -1,0 +1,19 @@
+NovaTech Solutions Approved Product Information
+
+NovaHub Mini
+The NovaHub Mini is a smart-home controller.
+It connects through Wi-Fi.
+It supports Android 11 or later and iOS 16 or later.
+Initial setup normally takes five minutes.
+
+To set up the NovaHub Mini:
+1. Connect the device to power.
+2. Open the NovaTech mobile application.
+3. Select Add New Device.
+4. Follow the instructions shown in the application.
+
+NovaCam Pro
+The NovaCam Pro is an indoor security camera.
+It connects through Wi-Fi.
+It supports Android 11 or later and iOS 16 or later.
+Initial setup normally takes approximately ten minutes.

@@ -1,0 +1,94 @@
+[
+  {
+    "record_id": "nt-hub-warranty",
+    "topic": "warranty",
+    "subject": "NovaHub Mini",
+    "audience": null,
+    "answer": "The NovaHub Mini has a two-year limited manufacturer warranty from the original purchase date.",
+    "source": "approved_warranty_and_returns.txt",
+    "keywords": [
+      "novahub mini",
+      "hub warranty",
+      "warranty period"
+    ]
+  },
+  {
+    "record_id": "nt-camera-warranty",
+    "topic": "warranty",
+    "subject": "NovaCam Pro",
+    "audience": null,
+    "answer": "The NovaCam Pro has a one-year limited manufacturer warranty from the original purchase date.",
+    "source": "approved_warranty_and_returns.txt",
+    "keywords": [
+      "novacam pro",
+      "camera warranty",
+      "warranty period"
+    ]
+  },
+  {
+    "record_id": "nt-hub-setup",
+    "topic": "product_setup",
+    "subject": "NovaHub Mini",
+    "audience": null,
+    "answer": "Connect the NovaHub Mini to power, open the NovaTech mobile application, select Add New Device and follow the instructions. Setup normally takes five minutes.",
+    "source": "approved_product_information.txt",
+    "keywords": [
+      "novahub mini",
+      "setup",
+      "install",
+      "connect device"
+    ]
+  },
+  {
+    "record_id": "nt-camera-setup",
+    "topic": "product_setup",
+    "subject": "NovaCam Pro",
+    "audience": null,
+    "answer": "The NovaCam Pro is configured through the NovaTech mobile application. Initial setup normally takes approximately ten minutes.",
+    "source": "approved_product_information.txt",
+    "keywords": [
+      "novacam pro",
+      "camera setup",
+      "install camera"
+    ]
+  },
+  {
+    "record_id": "nt-return-policy",
+    "topic": "return_policy",
+    "subject": null,
+    "audience": null,
+    "answer": "Unused products may be returned within 30 days of delivery and must include their original packaging and accessories.",
+    "source": "approved_warranty_and_returns.txt",
+    "keywords": [
+      "return product",
+      "return policy",
+      "30 days"
+    ]
+  },
+  {
+    "record_id": "nt-refund-time",
+    "topic": "refund_time",
+    "subject": null,
+    "audience": null,
+    "answer": "Approved refunds are returned to the original payment method within five to ten working days.",
+    "source": "approved_warranty_and_returns.txt",
+    "keywords": [
+      "refund time",
+      "refund arrival",
+      "working days"
+    ]
+  },
+  {
+    "record_id": "nt-support-hours",
+    "topic": "support_hours",
+    "subject": null,
+    "audience": null,
+    "answer": "Technical support is available Monday to Friday from 9:00 AM to 6:00 PM.",
+    "source": "approved_warranty_and_returns.txt",
+    "keywords": [
+      "support hours",
+      "opening hours",
+      "technical support"
+    ]
+  }
+]

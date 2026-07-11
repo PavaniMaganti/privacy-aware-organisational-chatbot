@@ -1,0 +1,167 @@
+[
+  {
+    "record_id": "nb-ai-fee-uk",
+    "topic": "tuition_fee",
+    "subject": "MSc Artificial Intelligence",
+    "audience": "UK",
+    "answer": "The UK tuition fee for MSc Artificial Intelligence is £12,500.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "artificial intelligence",
+      "ai course",
+      "uk fee",
+      "home student fee",
+      "tuition cost"
+    ]
+  },
+  {
+    "record_id": "nb-ai-fee-international",
+    "topic": "tuition_fee",
+    "subject": "MSc Artificial Intelligence",
+    "audience": "International",
+    "answer": "The international tuition fee for MSc Artificial Intelligence is £18,750.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "artificial intelligence",
+      "ai course",
+      "international fee",
+      "overseas student fee",
+      "tuition cost"
+    ]
+  },
+  {
+    "record_id": "nb-ds-fee-uk",
+    "topic": "tuition_fee",
+    "subject": "MSc Data Science",
+    "audience": "UK",
+    "answer": "The UK tuition fee for MSc Data Science is £12,000.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "data science",
+      "uk fee",
+      "home student fee",
+      "tuition cost"
+    ]
+  },
+  {
+    "record_id": "nb-ds-fee-international",
+    "topic": "tuition_fee",
+    "subject": "MSc Data Science",
+    "audience": "International",
+    "answer": "The international tuition fee for MSc Data Science is £18,000.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "data science",
+      "international fee",
+      "overseas fee",
+      "tuition cost"
+    ]
+  },
+  {
+    "record_id": "nb-cyber-fee-uk",
+    "topic": "tuition_fee",
+    "subject": "MSc Cyber Security",
+    "audience": "UK",
+    "answer": "The UK tuition fee for MSc Cyber Security is £12,250.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "cyber security",
+      "cybersecurity",
+      "uk fee",
+      "home student fee"
+    ]
+  },
+  {
+    "record_id": "nb-cyber-fee-international",
+    "topic": "tuition_fee",
+    "subject": "MSc Cyber Security",
+    "audience": "International",
+    "answer": "The international tuition fee for MSc Cyber Security is £18,250.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "cyber security",
+      "cybersecurity",
+      "international fee",
+      "overseas fee"
+    ]
+  },
+  {
+    "record_id": "nb-ba-fee-uk",
+    "topic": "tuition_fee",
+    "subject": "MSc Business Analytics",
+    "audience": "UK",
+    "answer": "The UK tuition fee for MSc Business Analytics is £11,750.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "business analytics",
+      "uk fee",
+      "home student fee"
+    ]
+  },
+  {
+    "record_id": "nb-ba-fee-international",
+    "topic": "tuition_fee",
+    "subject": "MSc Business Analytics",
+    "audience": "International",
+    "answer": "The international tuition fee for MSc Business Analytics is £17,500.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "business analytics",
+      "international fee",
+      "overseas fee"
+    ]
+  },
+  {
+    "record_id": "nb-ai-duration",
+    "topic": "course_duration",
+    "subject": "MSc Artificial Intelligence",
+    "audience": null,
+    "answer": "MSc Artificial Intelligence is a one-year full-time programme.",
+    "source": "approved_course_information.txt",
+    "keywords": [
+      "artificial intelligence",
+      "ai course",
+      "duration",
+      "how long"
+    ]
+  },
+  {
+    "record_id": "nb-scholarship",
+    "topic": "scholarship",
+    "subject": null,
+    "audience": "International",
+    "answer": "The International Excellence Scholarship is worth £3,000. International applicants are automatically considered after receiving an academic offer.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "scholarship",
+      "financial support",
+      "international scholarship"
+    ]
+  },
+  {
+    "record_id": "nb-deadline",
+    "topic": "application_deadline",
+    "subject": null,
+    "audience": null,
+    "answer": "Applications normally close on 31 July, although they may close earlier when all places are filled.",
+    "source": "approved_course_information.txt",
+    "keywords": [
+      "application deadline",
+      "closing date",
+      "last date to apply"
+    ]
+  },
+  {
+    "record_id": "nb-refund",
+    "topic": "refund_policy",
+    "subject": null,
+    "audience": null,
+    "answer": "A full tuition-fee refund may be available when a student formally withdraws before enrolment. Requests after enrolment are assessed under the refund policy.",
+    "source": "approved_fees_and_support.txt",
+    "keywords": [
+      "refund policy",
+      "withdrawal refund",
+      "tuition refund"
+    ]
+  }
+]

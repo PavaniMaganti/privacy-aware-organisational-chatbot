@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+    <title>Privacy-Aware Support Assistant</title>
+    <link
+        rel="stylesheet"
+        href="/static/css/chat.css"
+    >
+</head>
+
+<body class="landing-body">
+    <main class="landing-container">
+        <section class="landing-header">
+            <p class="eyebrow">Privacy-aware customer support</p>
+
+            <h1>Choose an organisation</h1>
+
+            <p>
+                Each organisation has its own approved information,
+                customer interface and isolated knowledge base.
+            </p>
+        </section>
+
+        <section class="organisation-grid">
+            {% for organisation in organisations %}
+                <a
+                    class="organisation-card"
+                    href="/org/{{ organisation.id }}/chat"
+                    style="
+                        --primary: {{ organisation.primary_colour }};
+                        --secondary: {{ organisation.secondary_colour }};
+                    "
+                >
+                    <div class="organisation-icon">
+                        {{ organisation.name[0] }}
+                    </div>
+
+                    <h2>{{ organisation.name }}</h2>
+
+                    <p>{{ organisation.description }}</p>
+
+                    <span>Open support assistant →</span>
+                </a>
+            {% endfor %}
+        </section>
+    </main>
+</body>
+</html>
