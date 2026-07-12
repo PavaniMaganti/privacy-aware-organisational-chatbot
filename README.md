@@ -91,9 +91,6 @@ The demonstration landing page shows how one platform can support multiple organ
 
 ![Suspicious request blocked](security_block.png)
 
-> Upload the final screenshots to the repository root using these exact filenames:
-> `home_page.png`, `northbridge_chat.png`, `novatech_chat.png`, `security_block.png`.
-
 ---
 
 ## ✨ Core Features
