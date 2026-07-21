@@ -27,6 +27,8 @@
 
 > The assistant is designed to support customer-service teams, not replace them. It answers routine questions, asks for missing details, blocks unsafe requests and escalates complex cases to a human.
 
+> **Fictional demonstration**: All organisations, products, courses, fees and policies shown in this application are fictional and were created solely for an academic portfolio demonstration.
+
 ---
 
 ## 🎯 The Problem
@@ -79,11 +81,11 @@ The demonstration landing page shows how one platform can support multiple organ
 
 ![Organisation selection page](home_page.png)
 
-### Northbridge University chatbot
+### Demo University A chatbot
 
 ![Northbridge University chatbot](northbridge_chat.png)
 
-### NovaTech Solutions chatbot
+### Demo Technology Company B chatbot
 
 ![NovaTech Solutions chatbot](novatech_chat.png)
 
@@ -191,13 +193,13 @@ Each organisation has its own approved documents and structured knowledge record
 The assistant retrieves information only from the organisation selected by the customer.
 
 ```text
-Northbridge customer
+Demo University A customer
         ↓
-Northbridge knowledge only
+Demo University A knowledge only
 
-NovaTech customer
+Demo Technology Company B customer
         ↓
-NovaTech knowledge only
+Demo Technology Company B knowledge only
 ```
 
 This prevents a Northbridge response from using NovaTech warranty records and prevents NovaTech from accessing university fee information.
@@ -318,7 +320,7 @@ Your reference number is ESC-XXXXXXXX.
 
 ## 🏢 Demonstration Organisations
 
-### 🎓 Northbridge University
+### 🎓 Demo University A
 
 The chatbot can answer approved questions about:
 
@@ -340,12 +342,12 @@ The chatbot can answer approved questions about:
 
 ---
 
-### 🛠️ NovaTech Solutions
+### 🛠️ Demo Technology Company B
 
 The chatbot can answer approved questions about:
 
-- NovaHub Mini
-- NovaCam Pro
+- DemoHub A1
+- DemoCam B1
 - product setup
 - warranties
 - returns
