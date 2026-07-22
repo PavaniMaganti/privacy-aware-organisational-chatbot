@@ -83,11 +83,11 @@ The demonstration landing page shows how one platform can support multiple organ
 
 ### Demo University A chatbot
 
-![Northbridge University chatbot](northbridge_chat.png)
+![Demo University A chatbot](demo_university_chat.png)
 
 ### Demo Technology Company B chatbot
 
-![NovaTech Solutions chatbot](novatech_chat.png)
+![Demo Technology Company B chatbot](demo_technology_chat.png)
 
 ### Security blocking
 
